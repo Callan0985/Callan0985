@@ -1,0 +1,1 @@
+- Hello my name is Callan, I work on javascript, McSkript and regular old java. I'm learning different codes sooner or later
